@@ -30,8 +30,9 @@ twitter_username:
 github_username:  joaopelinca
 
 # Build settings
-theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 collections:
