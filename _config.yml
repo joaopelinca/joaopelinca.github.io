@@ -30,9 +30,22 @@ twitter_username:
 github_username:  joaopelinca
 
 # Build settings
-theme: minima
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
