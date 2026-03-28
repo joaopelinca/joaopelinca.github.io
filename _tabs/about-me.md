@@ -4,6 +4,6 @@ icon: fas fa-user
 order: 1
 ---
 
-# who am i
+# Who am I?
 
 I'm Joao!
