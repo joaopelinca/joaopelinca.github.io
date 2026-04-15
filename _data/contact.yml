@@ -5,9 +5,6 @@
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/joaopelinca/"
 
-- type: email
+- type: email_direct
   icon: "fas fa-envelope"
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+  url: "mailto:jvpelinca@gmail.com"
