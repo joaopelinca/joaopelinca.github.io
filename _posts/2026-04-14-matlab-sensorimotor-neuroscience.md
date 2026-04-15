@@ -43,4 +43,4 @@ In this experiment, **Stochastic Vestibular Stimulation (SVS)** — a form of el
 
 ## Key Takeaways
 
-Working with real physiological data in MATLAB gave me hands-on experience with signal processing techniques that are directly applicable to clinical and research settings. Understanding how to extract meaningful information from noisy biological signals.
+Working with real physiological data in MATLAB gave me hands-on experience with signal processing techniques that are directly applicable to clinical and research settings, giving me a deeper understanding on how to extract meaningful information from noisy biological signals.
