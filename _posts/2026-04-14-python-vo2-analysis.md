@@ -6,9 +6,6 @@ order: 1
 categories: [Python, Kinesiology]
 tags: [python, matplotlib, numpy, pandas, VO2max, data analysis]
 ---
-
-## Overview
-
 As part of KNES 381 (Computer Applications in Kinesiology) at the University of Calgary, I developed a Python script that analyzes a VO2 dataset to identify key physiological thresholds. The dataset was sourced from Kaggle and processed using NumPy, Pandas, and Matplotlib.
 
 ---
