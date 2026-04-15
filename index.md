@@ -2,10 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
-Hi there, I'm **Joao** 👋. I built this site to share a little bit of who I am, what I've been
+## Hi there!
+
+I'm **Joao** 👋. I built this site to share a little bit of who I am, what I've been
 working on, and where I'm headed.
 
 Feel free to look around — whether you're here out of curiosity or we've crossed paths
@@ -15,7 +17,12 @@ somewhere, I hope you find something interesting!
 
 **Here's what you'll find here:**
 
-- 🙋 [About Me](/about-me/) — where I'm from, what I love, and what i'm working towards
+- 🙋 [About Me](/about_me/) — where I'm from, what I love, and what i'm working towards
 - 🔬 [Projects & Skills](/projects/) — my work in Python, MATLAB, and kinesiology data
 - 🤝 [Volunteering](/volunteering/) — clinical and adaptive sport experience
 - 💼 [Work](/work/) — my professional background
+
+---
+
+![The Voyage of Life: Youth — Thomas Cole (1842)](/assets/img/thomascole_1.jpg)
+*"The Voyage of Life: Youth" — Thomas Cole (1842). My favorite painting by my favorite painter.*

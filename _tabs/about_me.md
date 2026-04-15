@@ -35,3 +35,11 @@ technical skills I've been building.
 
 For either road, the University of Calgary is my number one choice. This city has given
 me so much, and I'd love nothing more than to continue growing here.
+
+---
+
+## Contact
+
+- 📧 [Email](mailto:jvpelinca@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaopelinca/)
+- 🐙 [GitHub](https://github.com/joaopelinca)
