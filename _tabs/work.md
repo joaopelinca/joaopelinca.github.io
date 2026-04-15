@@ -1,5 +1,5 @@
 ---
-title: Work Experience
+title: Work
 icon: fas fa-briefcase
 order: 4
 ---
