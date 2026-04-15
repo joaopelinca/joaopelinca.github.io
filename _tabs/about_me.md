@@ -19,7 +19,7 @@ technology. Whether I'm in a clinical setting, writing code, or on in the court,
 Growing up, I played soccer and volleyball competitively. These days into tennis in the summer and snowboarding in the winter. One of the reasons I love Calgary is because every season of the year comes with their own hobbies.
 
 Outside of sport, I play the piano and serve as a Music Director and Youth Leader 
-at my church, two roles that have taught me as much about leadership and caring for others.
+at my church, two roles that have taught me much about leadership and caring for others.
 
 I'm fluent in English and Portuguese, and currently working on my Spanish.
 
