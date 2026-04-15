@@ -66,7 +66,7 @@ open http://localhost:4000
 ## Project Structure
 
 ```
-_posts/          # Project write-ups and blog entries
+_posts/          # Project write-ups
 _tabs/           # Main navigation pages (About, Projects)
 assets/
   img/           # Profile photo and project figures
