@@ -115,6 +115,7 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
+  jekyll-archives
   jekyll-feed (~> 0.12)
   jekyll-theme-chirpy (~> 7.4, >= 7.4.1)
   tzinfo (>= 1, < 3)

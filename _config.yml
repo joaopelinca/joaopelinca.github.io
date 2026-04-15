@@ -39,6 +39,15 @@ social:
     - https://github.com/joaopelinca
     - https://www.linkedin.com/in/joaopelinca/
 
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
 # Build settings
 theme: jekyll-theme-chirpy
 
