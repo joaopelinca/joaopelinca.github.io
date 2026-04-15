@@ -2,7 +2,7 @@
 layout: post
 title: "Tools & Workflow — My Development Toolkit"
 date: 2026-04-11
-order: 4
+order: 3
 categories: [Tools, Workflow]
 tags: [git, github, terminal, jekyll, markdown, python, html]
 ---
