@@ -1,3 +1,4 @@
 #avatar img {
-  object-position: center top;
+  object-fit: contain;
+  object-position: center center;
 }
