@@ -18,7 +18,7 @@ somewhere, I hope you find something interesting!
 **Here's what you'll find here:**
 
 - 🙋 [About Me](/about_me/) — where I'm from, what I love, and what i'm working towards
-- 🔬 [Projects & Skills](/projects/) — my work in Python, MATLAB, and kinesiology data
+- 🔬 [Projects & Skills](/projects/) — my work in Python, MATLAB, and other kinesiology tools
 - 🤝 [Volunteering](/volunteering/) — clinical and adaptive sport experience
 - 💼 [Work](/work/) — my professional background
 

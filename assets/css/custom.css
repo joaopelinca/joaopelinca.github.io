@@ -1,0 +1,4 @@
+/* Hide date/metadata on post pages used as project subpages */
+.post-meta {
+  display: none;
+}
