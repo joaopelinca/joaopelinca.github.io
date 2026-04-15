@@ -5,7 +5,8 @@ icon: fas fa-diagram-project
 order: 2
 ---
 
-{% for post in site.posts %}
+{% assign sorted_posts = site.posts | sort: "order" %}
+{% for post in sorted_posts %}
 ### [{{ post.title }}]({{ post.url }})
 
 {{ post.excerpt }}
