@@ -41,8 +41,6 @@ social:
 
 # Build settings
 theme: jekyll-theme-chirpy
-plugins:
-  - jekyll-feed
 
 collections:
   tabs:
